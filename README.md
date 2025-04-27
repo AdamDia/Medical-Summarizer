@@ -58,8 +58,7 @@ This token allows instructors and reviewers to run the application immediately w
 
 Note:
 This token will be revoked after grading.
-
-
+```
 📂 Project Structure
 ├── app.py              # Streamlit frontend
 ├── summarizer.py       # Hugging Face API interaction
@@ -68,5 +67,6 @@ This token will be revoked after grading.
 ├── .gitignore          # Ignored files and folders
 ├── README.md           # Project overview
 
+```
 ##  Demo
 ![PCS](https://github.com/user-attachments/assets/0406cb05-2d4b-4465-be6a-33830fe306f7)
