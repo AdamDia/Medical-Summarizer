@@ -67,3 +67,6 @@ This token will be revoked after grading.
 ├── requirements.txt    # Project dependencies
 ├── .gitignore          # Ignored files and folders
 ├── README.md           # Project overview
+
+##  Demo
+![PCS](https://github.com/user-attachments/assets/0406cb05-2d4b-4465-be6a-33830fe306f7)
