@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Running the Application
 streamlit run app.py
-
+```
 
 🤖 Model
 Uses Hugging Face Inference API with google/pegasus-xsum as the default summarization model.
